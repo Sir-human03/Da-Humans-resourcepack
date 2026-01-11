@@ -1,6 +1,6 @@
 # Da-Humans-resourcepack
 
-if you want to get the whole modpack then go to [da humans modpack](https://www.curseforge.com/minecraft/texture-packs/wearable-christmas-hats](https://github.com/Sir-human03/Da-Humans-resourcepack](https://github.com/Sir-human03/da-humans-modpack )
+if you want to get the whole modpack then go to [Da Humans modpack](https://github.com/Sir-human03/da-humans-modpack)
 
 ## custom resource pack
 the resourcepack i made to be on the Da Humans server. It has custom top hats, a Christmas hat, and the master sword and Hylian Shield.
