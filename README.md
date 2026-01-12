@@ -1,6 +1,8 @@
 # Da-Humans-resourcepack
 
-if you want to get the whole modpack then go to [Modrith](https://modrinth.com/modpack/da-humans-modpack)
+if you want to get the whole modpack then go to
+
+[![modrinth](https://img.shields.io/badge/modrinth-da_humans_modpack-h?logo=modrinth&logoColor=white&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fda-humans-modpack)](https://modrinth.com/modpack/da-humans-modpack)
 
 ## custom resource pack
 the resourcepack i made to be on the Da Humans server. It has custom top hats, a Christmas hat, and the master sword and Hylian Shield.
