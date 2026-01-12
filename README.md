@@ -1,5 +1,8 @@
 # **Da Humans resource pack**
 
+[![modrinth](https://img.shields.io/badge/modrinth-da_humans_resourcepack-h?logo=modrinth&logoColor=white&link=https%3A%2F%2Fmodrinth.com%2Fresourcepack%2Fda-humans-resource-pack)](https://modrinth.com/resourcepack/da-humans-resource-pack)
+
+
 if you want to get the modpack then go to
 [![modrinth](https://img.shields.io/badge/modrinth-da_humans_modpack-h?logo=modrinth&logoColor=white&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fda-humans-modpack)](https://modrinth.com/modpack/da-humans-modpack)
 
