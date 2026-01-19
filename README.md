@@ -29,7 +29,11 @@ some of the models in the pack
 | master sword        | master_sword          |
 | Hylian Shield       | Hylian_Shield         |
 | Christmas hat       | xmass_hat             |
-| my skin as an egg   | head_egg1             |
+| my skin as an egg   | ollie_egg             |
+| hanging cat painting| hanging_cat           |
+| me as a plushie     | plushie_ollie         |
+| rupee from zelda    | dhs:rupee             |
+
 
 - Click exit
 - Click the ModelApplier button in both the exit screen and the ModelApplier screen
