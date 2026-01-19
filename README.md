@@ -29,7 +29,7 @@ some of the models in the pack
 | master sword        | master_sword          |
 | Hylian Shield       | Hylian_Shield         |
 | Christmas hat       | xmass_hat             |
-| my skin as an egg   | ollie_egg             |
+| me as an egg         | ollie_egg             |
 | me as a plushie     | plushie_ollie         |
 | hanging cat painting| hanging_cat           |
 | rupee from zelda    | dhs:rupee             |
