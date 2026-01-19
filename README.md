@@ -30,8 +30,8 @@ some of the models in the pack
 | Hylian Shield       | Hylian_Shield         |
 | Christmas hat       | xmass_hat             |
 | my skin as an egg   | ollie_egg             |
-| hanging cat painting| hanging_cat           |
 | me as a plushie     | plushie_ollie         |
+| hanging cat painting| hanging_cat           |
 | rupee from zelda    | dhs:rupee             |
 
 
