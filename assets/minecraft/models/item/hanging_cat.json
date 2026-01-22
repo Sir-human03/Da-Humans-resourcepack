@@ -3,8 +3,8 @@
 	"credit": "by Hoffen _InkGhoul",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/painting_back",
-		"2": "item/hanging_cat",
+		"1": "item/hanging_cat",
+		"2": "item/painting_back",
 		"particle": "item/hanging_cat"
 	},
 	"elements": [
@@ -13,12 +13,12 @@
 			"to": [8, 32, 32],
 			"rotation": {"angle": 0, "axis": "y", "origin": [16, 16, 11.5]},
 			"faces": {
-				"north": {"uv": [1.75, 1.75, 2, 14.25], "texture": "#2"},
-				"east": {"uv": [1.75, 1.75, 14.25, 14.25], "texture": "#2"},
-				"south": {"uv": [14, 1.75, 14.25, 14.25], "texture": "#2"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
-				"up": {"uv": [1.75, 1.75, 14.25, 2], "rotation": 270, "texture": "#2"},
-				"down": {"uv": [1.75, 14, 14.25, 14.25], "rotation": 90, "texture": "#2"}
+				"north": {"uv": [1.75, 1.75, 2, 14.25], "texture": "#1"},
+				"east": {"uv": [1.75, 1.75, 14.25, 14.25], "texture": "#1"},
+				"south": {"uv": [14, 1.75, 14.25, 14.25], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"up": {"uv": [1.75, 1.75, 14.25, 2], "rotation": 270, "texture": "#1"},
+				"down": {"uv": [1.75, 14, 14.25, 14.25], "rotation": 90, "texture": "#1"}
 			}
 		}
 	],

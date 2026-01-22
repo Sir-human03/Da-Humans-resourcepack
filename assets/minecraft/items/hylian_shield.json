@@ -1,7 +1,7 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "item/hylian_shield"
+        "model": "item/tools/hylian_shield"
         
     }
 }

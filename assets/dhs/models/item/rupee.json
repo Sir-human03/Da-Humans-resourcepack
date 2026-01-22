@@ -1,0 +1,10 @@
+{
+	"format_version": "1.21.11",
+	"credit": "by Sir Human (ollie)",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "dhs:item/rupee",
+		"particle": "dhs:item/rupee"
+	},
+	"display": {}
+}

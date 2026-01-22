@@ -1,7 +1,7 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "item/xmass_hat"
+        "model": "item/hats/xmass_hat"
         
     }
 }
