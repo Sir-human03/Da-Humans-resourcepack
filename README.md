@@ -1,34 +1,3 @@
-| item name           | item code             |
-|---------------------|:---------------------:|
-| **hats**            |                       | 
-| top hat 1 (orange)  | top_hat1              | 
-| top hat 2 (blue)    | top_hat2              |
-| top hat 3 (red)     | top_hat3              | 
-| Christmas hat       | xmass_hat             |
-| **tools**           |                       | 
-| master sword        | master_sword          |
-| Hylian Shield       | Hylian_Shield         |
-| lightsaber          | lightsaber            | 
-| **skull tools**     |                       | 
-| skull pickaxe       | ollie:skull_pickaxe   | 
-| skull axe           | ollie:skull_axe       | 
-| skull shovle        | ollie:skull_shovle    | 
-| skull hoe           | ollie:skull_hoe       | 
-| skull sword         | ollie:skull_sword     | 
-| **ollie's models**  |                       | 
-| egg ollie           | ollie:egg             | 
-| plushie ollie       | ollie:plushie         | 
-| **miscellaneous**   |                       | 
-| hanging cat painting| hanging_cat           |
-| rupee from zelda    | dhs:rupee             |
-
-
-
-
-
-
-
-
 # **Da Humans resource pack**
 
 [![modrinth](https://img.shields.io/badge/modrinth-da_humans_resourcepack-h?logo=modrinth&logoColor=white&link=https%3A%2F%2Fmodrinth.com%2Fresourcepack%2Fda-humans-resource-pack)](https://modrinth.com/resourcepack/da-humans-resource-pack)
@@ -54,14 +23,25 @@ some of the models in the pack
 
 | item name           | item code             |
 |---------------------|:---------------------:|
+| **hats**            |                       | 
 | top hat 1 (orange)  | top_hat1              | 
 | top hat 2 (blue)    | top_hat2              |
 | top hat 3 (red)     | top_hat3              | 
+| Christmas hat       | xmass_hat             |
+| **tools**           |                       | 
 | master sword        | master_sword          |
 | Hylian Shield       | Hylian_Shield         |
-| Christmas hat       | xmass_hat             |
-| me as an egg         | ollie_egg             |
-| me as a plushie     | plushie_ollie         |
+| lightsaber          | lightsaber            | 
+| **skull tools**     |                       | 
+| skull pickaxe       | ollie:skull_pickaxe   | 
+| skull axe           | ollie:skull_axe       | 
+| skull shovle        | ollie:skull_shovle    | 
+| skull hoe           | ollie:skull_hoe       | 
+| skull sword         | ollie:skull_sword     | 
+| **ollie's models**  |                       | 
+| egg ollie           | ollie:egg             | 
+| plushie ollie       | ollie:plushie         | 
+| **miscellaneous**   |                       | 
 | hanging cat painting| hanging_cat           |
 | rupee from zelda    | dhs:rupee             |
 
