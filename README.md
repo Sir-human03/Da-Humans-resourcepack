@@ -43,8 +43,6 @@ some of the models in the pack
 | plushie ollie       | ollie:plushie         | 
 | **miscellaneous**   |                       | 
 | hanging cat painting| hanging_cat           |
-| rupee from zelda    | dhs:rupee             |
-
 
 - Click exit
 - Click the ModelApplier button in both the exit screen and the ModelApplier screen
