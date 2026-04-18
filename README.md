@@ -39,7 +39,7 @@ some of the models in the pack
 | drill               | matt:drill            |
 | ladle               | matt:ladle            |
 | scythe              | matt:scythe           |
-| shield              | matt:shiel            |
+| shield              | matt:shield           |
 | **ollie's models**  |                       |
 | egg ollie           | ollie:egg             |
 | plushie ollie       | ollie:plushie         |
